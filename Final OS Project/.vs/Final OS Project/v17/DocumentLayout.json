@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lando\\source\\repos\\Final OS Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491F77F6-A32F-43B8-A9C6-9D8412658FA3}|Final OS Project.vcxproj|C:\\Users\\Lando\\source\\repos\\Final OS Project\\Final OS Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{491F77F6-A32F-43B8-A9C6-9D8412658FA3}|Final OS Project.vcxproj|solutionrelative:Final OS Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final OS Project.cpp",
+              "DocumentMoniker": "C:\\Users\\Lando\\source\\repos\\Final OS Project\\Final OS Project.cpp",
+              "RelativeDocumentMoniker": "Final OS Project.cpp",
+              "ToolTip": "C:\\Users\\Lando\\source\\repos\\Final OS Project\\Final OS Project.cpp",
+              "RelativeToolTip": "Final OS Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T23:23:25.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
